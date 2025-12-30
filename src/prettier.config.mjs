@@ -6,7 +6,7 @@ export default {
     semi: false,
     singleQuote: true,
     jsxSingleQuote: true,
-    arrowPatterns: "avoid",
+    arrowParens: "avoid",
     importOrderSeparation: true,
     importOrderSortSpecifiers: true,
     importOrderCaseInsensitive: true,
