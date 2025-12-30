@@ -5,15 +5,13 @@ on:
     branches:
       - main
 
-permissions:
-  id-token: write
-  contents: read
-  packages: write
-
 jobs:
   publish:
     runs-on: ubuntu-latest
-
+    permissions:
+      id-token: write
+      contents: read
+      
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4

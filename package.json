@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "Core library for ecotechlib",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "github.com"
+  },
   "publishConfig": {
     "access": "public"
   },
