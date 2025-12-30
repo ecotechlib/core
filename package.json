@@ -1,16 +1,11 @@
 {
   "name": "@ecotechlib/core",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "Core library for ecotechlib",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "github.com"
-  },
+  "type": "commonjs",
   "publishConfig": {
     "access": "public"
   },
-  "keywords": [],
   "license": "ISC",
   "author": {
     "name": "Serhii",
