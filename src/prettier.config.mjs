@@ -1,7 +1,7 @@
 /** @type {import('prettier').Config} */
 export default {
 	// 100-120 is the modern sweet spot for wide monitors, prevents excessive line breaks
-	printWidth: 100,
+	printWidth: 120,
 
 	// Tabs are trending for accessibility (allows users to set their own visual width)
 	tabWidth: 4,
